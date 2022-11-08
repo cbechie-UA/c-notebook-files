@@ -1,2 +1,2 @@
 # c-notebook-files
-EuropaKernel repo for .ipynb delivery 
+EuropaKernel repo for .ipynb delivery (c)
